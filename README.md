@@ -9,6 +9,9 @@ Projeto onde foi criado o mapa do brasil em svg e conforme os itens são selecio
 * Stitches
 * React Bootstrap
 
+## Visite o projeto
+Link: https://brasil-map-chart.vercel.app/
+
 ## ✒️ Autores
 
 * **Reinan Guilherme** - [umdesenvolvedor](https://www.linkedin.com/in/reinan-guilherme-34086b236)
